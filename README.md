@@ -10,7 +10,7 @@ Sensor GY-VEML7060 (para usar en ejemplos de montajes)
 
 Tornillos M4 y M8 funcionales usados como llaveros
 
-![](./imagenes-mini/llavero-freecad.jpg)
+![](./imagenes-mini/llavero-m8-mini.png)
 
 ![](./imagenes-mini/llavero-print.jpg)
 
