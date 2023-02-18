@@ -2,6 +2,8 @@
 ***piezas freecad***
 
 
+![](./carcasa-para sensor-GY-VEML6070/carcasa-GY-VEML7060-mini.png)
+
 
 ![](./sensor-GY-VEML6070/gy-veml6070-mini.png)
 
