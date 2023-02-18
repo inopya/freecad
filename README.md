@@ -3,7 +3,7 @@
 
 
 
-![](./sensor-GY-VEML6070/gy-veml6070.png)
+![](./sensor-GY-VEML6070/gy-veml6070-mini.png)
 
 
 ![](./imagenes/llavero_freecad.jpg)
