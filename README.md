@@ -1,7 +1,7 @@
 # FREECAD
 ***piezas freecad***
 
-# Carcasa par sensor UV GY-VEML7060 u otros similares de hasta 5 pines
+## Carcasa par sensor UV GY-VEML7060 u otros similares de hasta 5 pines
 
 ![](./imagenes-mini/carcasa-GY-VEML7060-mini.png)
 
