@@ -1,5 +1,10 @@
 # FREECAD
-***piezas freecad***
+***piezas freecad*** 
+
+
+## Clip para filamento 3D de 1.75mm (vesion minimalista)
+
+![](./imagenes-mini/clip-mini.png)
 
 ## Organizador para cables micro USB
 
