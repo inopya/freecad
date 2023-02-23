@@ -6,6 +6,8 @@
 
 ![](./imagenes-mini/clip-mini.png)
 
+![](./imagenes-mini/clip-real-mini.jpg)
+
 ## Organizador para cables micro USB
 
 ![](./imagenes-mini/org-cables-demo.png)
